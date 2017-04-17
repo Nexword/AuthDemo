@@ -1,0 +1,4 @@
+AuthDemoProject/bin/*
+AuthDemoProject/obj/*
+*.mdf
+*.ldf
